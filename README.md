@@ -74,7 +74,7 @@ PLE requires the following dependencies:
 Clone the repo and install with pip.
 
 ```bash
-git clone https://github.com/ntasfi/PyGame-Learning-Environment.git
+git clone https://github.com/SupporterDog/PyGame-Learning-Environment.git
 cd PyGame-Learning-Environment/
 pip install -e .
 ``` 
