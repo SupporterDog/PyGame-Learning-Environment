@@ -88,4 +88,5 @@ class MyTestCase(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    nose.runmodule()
+    import unittest
+    unittest.main()
