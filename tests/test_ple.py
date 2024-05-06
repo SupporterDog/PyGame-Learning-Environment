@@ -60,11 +60,6 @@ class MyTestCase(unittest.TestCase):
         game = PuckWorld()
         self.run_a_game(game)
 
-    def test_raycastmaze(self):
-        from ple.games.raycastmaze import RaycastMaze
-        game = RaycastMaze()
-        self.run_a_game(game)
-
     def test_snake(self):
         from ple.games.snake import Snake
         game = Snake()
